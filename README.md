@@ -5,8 +5,8 @@ These are the projects that I made from the examples of [Frontend Mentor](https:
 <br>
 Demo of Selected Projects Here;
 <br>
-- [To Do App](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/todo-app-main/index.html/)
-- [Calculator App](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/calculator-app-main/index.html)
+- [To Do App](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/todo-app-main/)
+- [Calculator App](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/calculator-app-main/)
 - [Crowdfunding Product Page](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/crowdfunding-product-page-main/)
 - [FAQ Card](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/faq-accordion-card-main/)
 - [Order Summary Card](https://yunusemretoptanci.github.io/Javascript-css-fundamental-FrontendMentor-projects/order-summary-component-main/)
