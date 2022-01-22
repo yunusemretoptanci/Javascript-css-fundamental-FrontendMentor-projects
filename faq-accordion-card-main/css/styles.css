@@ -1,0 +1,89 @@
+body,html{
+  margin: 0;
+  position: relative;
+  height: 100%;
+
+}
+.bg{
+  position: absolute;
+height: 100%;
+width: 100%;
+  background-color: hsl(240, 73%, 65%);
+  background-image: linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%));
+  background-repeat: no-repeat;
+
+
+}
+.container-content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: hsl(240, 5%, 91%);
+  display: flex;
+  width: 65%;
+  height: 70%;
+  border-radius: 15px;
+
+}
+.img-content{
+  background-image: url("../images/illustration-woman-online-desktop.svg");
+  background-repeat: no-repeat;
+  height:100%;
+  width: 40%;
+  background-position: 125% 45%;
+
+}
+.box-img{
+  position: fixed;
+  top: 55%;
+z-index: 1;
+  transform: translate(-50%,-40%);
+}
+
+.list-content{
+position: absolute;
+width: 50%;
+right: 0;
+text-align: left;
+top:10%;
+}
+
+.list{
+display: inline-block;
+color:hsl(237, 12%, 33%);
+position: relative;
+bottom: 20px;
+}
+.fav-icon{
+display: inline-block;
+position: absolute;
+right: 10%;
+
+}
+
+.undet-text{
+  display: none;
+
+
+}
+p{
+  font-family: 'Kumbh Sans', sans-serif;
+
+}
+h1{
+  font-family: 'Kumbh Sans', sans-serif;
+  margin-bottom: 10%;
+}
+.open{
+  display: block;
+  color:hsl(240, 6%, 50%);
+  margin-top: 0;
+  margin-bottom: 20px;
+  position: relative;
+  bottom: 20px;
+  width: 81%;
+}
+.close{
+  display: none;
+}
