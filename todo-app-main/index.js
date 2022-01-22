@@ -67,7 +67,7 @@ if(trash){return;}
     const text=`<div class="${themeChoser}">
     <div class="${DONE} ${circleTheme}" job="complete" id="${id}"></div>
      <p class="${LINE} ${pTheme}"> ${toDo} </p>
-      <img job="delete" id="${id}" src="/images/icon-cross.svg" alt="icon-cross" >
+      <img job="delete" id="${id}" src="./images/icon-cross.svg" alt="icon-cross" >
       </div>`;
     todoAera.insertAdjacentHTML("afterbegin",text);
     
@@ -208,9 +208,9 @@ document.querySelector(".complated-todo").addEventListener("click",function(){
      }
 
      if(darkTheme){
-        document.querySelector(".theme").src="/images/icon-sun.svg"
+        document.querySelector(".theme").src="./images/icon-sun.svg"
      }else{
-        document.querySelector(".theme").src="/images/icon-moon.svg"
+        document.querySelector(".theme").src="./images/icon-moon.svg"
      }
      console.log(darkTheme);
      
